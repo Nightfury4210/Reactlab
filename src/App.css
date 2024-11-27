@@ -1,0 +1,31 @@
+/* App.css */
+.greeting {
+  font-size: 24px;
+  color: rgb(87, 87, 124);
+  padding: 10px;
+}
+
+.header {
+  font-size: 28px;
+  color: rgb(0, 45, 128);
+  padding: 10px;
+}
+
+.content {
+  font-size: 18px;
+  color: red;
+  padding: 10px;
+}
+
+.footer {
+  font-size: 16px;
+  color: #fff;
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+div {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
